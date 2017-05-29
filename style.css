@@ -1,0 +1,51 @@
+#header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    line-height: 30px;
+    height: 300px;
+    width: 100px;
+    float: left;	      
+    clear: both;
+}
+#video {
+    width: 640px;
+    float: left;
+    padding: 10px;
+    height: 480px;
+}
+#list {
+    width: 320px;
+    float: left;
+    padding: 10px;
+    height: 480px;
+}
+#folder {
+    float: top;
+    padding: 10px;
+    height: 50px;
+}
+#search {
+    float: top;
+    padding: 10px;
+    height: 50px;
+}
+#searchBoxSpam {
+    float: left;
+    float: left;
+    padding: 10px;
+}
+#clearButtonSpam {
+    float: right;
+    padding: 10px;
+    width: 50px;
+}
+#result {
+    float: top;
+    padding: 10px;
+}
+.Videos {
+    width: 320px;
+    padding: 2px;
+}
